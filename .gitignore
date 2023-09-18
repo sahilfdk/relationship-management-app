@@ -11,10 +11,6 @@ yarn-error.log
 # Environment variables
 .env
 
-# IDE/Editor files
-.vscode/
-.idea/
-
 # Compiled output
 /dist/
 /build/
@@ -28,17 +24,3 @@ pids
 *.pid
 *.seed
 *.pid.lock
-
-# Optional: Uncomment the following if you're using Visual Studio Code
-# .vscode/
-# .vscodeignore
-
-# Optional: Uncomment the following if you're using WebStorm/PhpStorm
-# .idea/
-# .idea/workspace.xml
-# .idea/tasks.xml
-# .idea/dictionaries
-# .idea/misc.xml
-# .idea/vcs.xml
-# .idea/jsLibraryMappings.xml
-# .idea/jsLibrarySources.xml

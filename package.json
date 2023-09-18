@@ -2,13 +2,10 @@
   "name": "relationship-management-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Sahil Jain",
   "dependencies": {
     "@azure/cosmos": "^3.17.3",
     "body-parser": "^1.20.2",
